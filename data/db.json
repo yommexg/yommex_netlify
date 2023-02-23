@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "February 19, 2023 1:48:49 PM",
+      "body": "jodplufSXPLN GUMJOFLBJMFJOLN"
+    },
+    {
+      "id": 5,
+      "title": "KLHEOY0OEUT04",
+      "datetime": "February 19, 2023 3:52:28 PM",
+      "body": "MY namr os  boluwatife"
+    },
+    {
+      "id": 7,
+      "title": "fhddy",
+      "datetime": "February 21, 2023 4:06:40 PM",
+      "body": "ijdoigvi[0Iydv]yd"
+    },
+    {
+      "id": 8,
+      "title": "kmlduei",
+      "datetime": "February 21, 2023 7:55:53 PM",
+      "body": ",m;avjpkdfuru"
+    }
+  ]
+}
